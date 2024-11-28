@@ -95,5 +95,5 @@ if __name__ == '__main__':
     cucumber_harvest.opening_cermony()
 
     cucumber_harvest.pick_cucu_1()
-    cucumber_harvest.pick_cucu_2()
+    # cucumber_harvest.pick_cucu_2()
 
